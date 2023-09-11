@@ -4,7 +4,7 @@ import List from './list'
 const Main = () =>{
   return (
     <>
-      <h1>Bla!</h1>
+      <h1>Z6 - class components</h1>
       <Paragraph ime='Mislav'/>
       <List itemCount={7}/>
     </>
