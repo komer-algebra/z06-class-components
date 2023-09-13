@@ -1,8 +1,8 @@
-# React + Vite
+## z6 - class components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.	Napraviti novu aplikaciju
+2.	Unutar App.js datoteke napraviti jednu komponentu definiranu funkcijom koja vraća JSX s tekstom.
+*	  Unutar App komponente potrebno je prikazati komponentu.
+3.	Unutar App.js datoteke napraviti jednu komponentu definiranu klasom koja vraća JSX s tekstom.
+*	  Unutar App komponente potrebno je prikazati komponentu.
+4.	Potrebno je prebaciti svaku komponentu unutar svoje datoteke. Prikazati ih unutar App komponente.
